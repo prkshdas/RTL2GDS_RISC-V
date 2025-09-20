@@ -36,7 +36,7 @@ This week, I focused on preparing my development environment with essential open
 
 | Task | Description | Tools Installed |
 |------|-------------|----------------|
-| **Task 0** | 🛠️ [Tools Installation](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/tree/main/Week0) | **Complete EDA Toolchain Setup** |
+| **Task 0** |**Tools Installation**| **Complete EDA Toolchain Setup** |
 
 ### 📦 **Tools Installed in Week 0 - Task 0**
 
@@ -48,20 +48,12 @@ This week, I focused on preparing my development environment with essential open
 | 📟 **Iverilog** | Verilog Simulation & Compilation |
 | 📊 **GTKWave** | Waveform Viewer & Analysis |
 
-#### **Advanced Flow Tools**
-
-| Tool | Purpose |
-|------|---------|
-| 🐳 **Docker** | Containerization Platform |
-| 🌊 **OpenLane** | Complete RTL-to-GDSII Flow |
 
 ### 🌟 **Key Learnings from Week 0**
 
-- **Successfully installed** and verified **open-source EDA tools** ecosystem
+- Successfully installed **open-source EDA tools** ecosystem on the System
 - **Mastered environment setup** for professional RTL design and synthesis workflows
-- **Prepared comprehensive system** for upcoming **RTL → GDSII flow experiments**
-- **Established Docker-based** OpenLane environment for automated design flows
-- **Configured virtual machine** with optimal specifications for EDA workloads
+- **Configured system** for upcoming **RTL → GDSII flow experiments**
 
 </details>
 
