@@ -37,19 +37,19 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Alt Text](assets/yosys.png)
+![Alt Text](RTL2GDS_RISC-V/assets/yosys.png)
 
 #### <ins>**Iverilog**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](assets/iverilog.png)
+![Alt Text](RTL2GDS_RISC-V/assets/iverilog.png)
 
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](assets/gtkwave.png)
+![Alt Text](RTL2GDS_RISC-V/assets/gtkwave.png)
 
