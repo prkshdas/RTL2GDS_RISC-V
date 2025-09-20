@@ -9,13 +9,11 @@
 
 </div>
 
-Welcome to my journey through the **SoC Tapeout Program VSD**!
-
-This repository documents my **week-by-week progress** with tasks inside each week.
+Welcome to my journey through the SoC Tapeout Program VSD! This repository documents my week-by-week progress, highlighting tasks and key learnings.
 
 <div align="center">
 
-> *"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India's largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation's semiconductor ecosystem."*
+> *"This program teaches us to design a System-on-Chip (SoC) from RTL to GDSII using open-source tools. As part of India's largest collaborative RISC-V tapeout initiative, it empowers over 3,500 participants to build silicon and advance the nation's semiconductor ecosystem."*
 
 </div>
 
@@ -33,7 +31,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 <details>
 <summary><b>🛠️ Foundation Week: Environment Setup and Tool Installation</b></summary>
 
-This week focuses on preparing the development environment with essential open-source EDA tools for the complete RTL-to-GDSII flow.
+This week, I focused on preparing my development environment with essential open-source EDA tools for a complete RTL-to-GDSII workflow.
 
 ### 🛠️ **Tasks Overview**
 
