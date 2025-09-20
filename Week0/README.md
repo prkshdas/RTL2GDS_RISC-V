@@ -1,4 +1,3 @@
-
 # RISC-V Reference SoC Tapeout Program VSD
 
 ## Tools Installation
@@ -37,19 +36,19 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Alt Text](RTL2GDS_RISC-V/assets/yosys.png)
+![Alt Text]([RTL2GDS_RISC-V/assets/yosys.png](https://github.com/prkshdas/RTL2GDS_RISC-V/blob/main/assets/yosys.png))
 
 #### <ins>**Iverilog**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](RTL2GDS_RISC-V/assets/iverilog.png)
+![Alt Text]([RTL2GDS_RISC-V/assets/iverilog.png](https://github.com/prkshdas/RTL2GDS_RISC-V/blob/main/assets/iverilog.png))
 
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](RTL2GDS_RISC-V/assets/gtkwave.png)
+![Alt Text]([RTL2GDS_RISC-V/assets/gtkwave.png](https://github.com/prkshdas/RTL2GDS_RISC-V/blob/main/assets/gtkwave.png))
 
