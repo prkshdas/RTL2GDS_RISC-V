@@ -28,8 +28,7 @@ Welcome to my journey through the SoC Tapeout Program VSD! This repository docum
 ---
 ## 📅 **Week 0 — Setup & Tools**
 
-<details>
-<summary><b>🛠️ Foundation Week: Environment Setup and Tool Installation</b></summary>
+<b>Environment Setup and Tool Installation</b></summary>
 
 This week, I focused on preparing my development environment with essential open-source EDA tools for a complete RTL-to-GDSII workflow.
 
@@ -37,7 +36,7 @@ This week, I focused on preparing my development environment with essential open
 
 | Task | Description | Tools Installed | Status |
 |------|-------------|----------------|---------|
-| **Task 0** | 🛠️ [Tools Installation](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/tree/main/Week0) | **Complete EDA Toolchain Setup** | ✅ Done |
+| **Task 0** | 🛠️ [Tools Installation](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/tree/main/Week0) | **Complete EDA Toolchain Setup** |
 
 ### 📦 **Tools Installed in Week 0 - Task 0**
 
@@ -45,18 +44,16 @@ This week, I focused on preparing my development environment with essential open
 
 | Tool | Purpose | Verification |
 |------|---------|--------------|
-| 🧠 **Yosys** | RTL Synthesis & Logic Optimization | ✅ Verified |
-| 📟 **Iverilog** | Verilog Simulation & Compilation | ✅ Verified |
-| 📊 **GTKWave** | Waveform Viewer & Analysis | ✅ Verified |
-| ⚡ **Ngspice** | Analog & Mixed-Signal Simulation | ✅ Verified |
-| 🎨 **Magic VLSI** | Layout Design & DRC Verification | ✅ Verified |
+| 🧠 **Yosys** | RTL Synthesis & Logic Optimization |
+| 📟 **Iverilog** | Verilog Simulation & Compilation |
+| 📊 **GTKWave** | Waveform Viewer & Analysis |
 
 #### **Advanced Flow Tools**
 
 | Tool | Purpose | Verification |
 |------|---------|--------------|
-| 🐳 **Docker** | Containerization Platform | ✅ Verified |
-| 🌊 **OpenLane** | Complete RTL-to-GDSII Flow | ✅ Verified |
+| 🐳 **Docker** | Containerization Platform |
+| 🌊 **OpenLane** | Complete RTL-to-GDSII Flow |
 
 ### 🌟 **Key Learnings from Week 0**
 
@@ -75,9 +72,6 @@ This week, I focused on preparing my development environment with essential open
 | 🎓 **Learning Path** | Complete SoC Design: RTL → Synthesis → Physical Design → Tapeout |
 | 🛠️ **Tools Focus** | Open-Source EDA Ecosystem (Yosys, OpenLane, Magic, etc.) |
 | 🏭 **Industry Relevance** | Real-world semiconductor design methodologies |
-| 🤝 **Collaboration** | Part of India's largest RISC-V tapeout initiative |
-| 📈 **Scale** | 3500+ participants contributing to silicon advancement |
-| 🇮🇳 **National Impact** | Advancing India's semiconductor ecosystem |
 
 </div>
 
