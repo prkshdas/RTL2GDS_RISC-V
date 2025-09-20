@@ -13,7 +13,7 @@ Welcome to my journey through the SoC Tapeout Program VSD! This repository docum
 
 <div align="center">
 
-> *"This program teaches us to design a System-on-Chip (SoC) from RTL to GDSII using open-source tools. As part of India's largest collaborative RISC-V tapeout initiative, it empowers over 3,500 participants to build silicon and advance the nation's semiconductor ecosystem."*
+*"This program teaches us to design a System-on-Chip (SoC) from RTL to GDSII using open-source tools. As part of India's largest collaborative RISC-V tapeout initiative, it empowers over 3,500 participants to build silicon and advance the nation's semiconductor ecosystem."*
 
 </div>
 
