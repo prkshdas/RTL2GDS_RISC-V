@@ -34,24 +34,24 @@ This week, I focused on preparing my development environment with essential open
 
 ### 🛠️ **Tasks Overview**
 
-| Task | Description | Tools Installed | Status |
-|------|-------------|----------------|---------|
+| Task | Description | Tools Installed |
+|------|-------------|----------------|
 | **Task 0** | 🛠️ [Tools Installation](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/tree/main/Week0) | **Complete EDA Toolchain Setup** |
 
 ### 📦 **Tools Installed in Week 0 - Task 0**
 
 #### **Core RTL Design & Synthesis Tools**
 
-| Tool | Purpose | Verification |
-|------|---------|--------------|
+| Tool | Purpose |
+|------|---------|
 | 🧠 **Yosys** | RTL Synthesis & Logic Optimization |
 | 📟 **Iverilog** | Verilog Simulation & Compilation |
 | 📊 **GTKWave** | Waveform Viewer & Analysis |
 
 #### **Advanced Flow Tools**
 
-| Tool | Purpose | Verification |
-|------|---------|--------------|
+| Tool | Purpose |
+|------|---------|
 | 🐳 **Docker** | Containerization Platform |
 | 🌊 **OpenLane** | Complete RTL-to-GDSII Flow |
 
